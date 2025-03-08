@@ -6,7 +6,7 @@ from pdf2image import convert_from_bytes
 from io import BytesIO
 
 st.set_page_config(layout="wide", page_title="Mistral OCR App", page_icon="🖥️")
-st.title("Mistral OCR App")
+st.title("Get accurate and perfect results from your pdf")
 st.markdown("<h3 style color: white;'>Built by <a href='https://github.com/AIAnytime'>AI Anytime with ❤️ </a></h3>", unsafe_allow_html=True)
 
 # 1. API Key Input
