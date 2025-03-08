@@ -1,0 +1,9 @@
+streamlit
+mistralai
+pybase64
+pdfminer==20191125
+pdf2image
+chromadb
+PyMuPDF
+Pillow
+faiss-cpu
