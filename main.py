@@ -10,7 +10,7 @@ st.title("Mistral OCR App")
 st.markdown("<h3 style color: white;'>Built by <a href='https://github.com/AIAnytime'>AI Anytime with ❤️ </a></h3>", unsafe_allow_html=True)
 
 # 1. API Key Input
-api_key = st.text_input("Enter your Mistral API Key", type="password")
+api_key ="h98KHKhrGdjHWi2pOwz46F7bWUMwWWk7"
 if not api_key:
     st.info("Please enter your API key to continue.")
     st.stop()
